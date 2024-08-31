@@ -1,0 +1,4 @@
+nama :Muh Rifai
+nim :D0224007
+kelas : Informatika  C
+angkatan :2024
