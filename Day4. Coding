@@ -1,0 +1,18 @@
+package DaysOfCoding;
+
+
+public class Days4 {
+    public static void main(String[] args) {
+        String a = "Haiii Warga plus";
+        int b = 62;
+        
+        System.out.printf("%s%n",a);
+        System.out.printf("%d%n",b);
+        
+        System.out.print("Haiii Warga plus");
+        System.out.print("62");
+        
+        
+    }
+    
+}
