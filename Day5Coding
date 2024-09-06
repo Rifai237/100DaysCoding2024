@@ -1,0 +1,14 @@
+package Day5Coding;
+
+
+public class Days5 {
+    public static void main(String[] args) {
+        /**
+         * metode ini digunakan untuk menampilkan pesan "Hii kak semangat" di layar
+         */
+    System.out.println("Hii Kak Semangat");
+    
+    }
+    
+    
+}
