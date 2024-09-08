@@ -1,0 +1,12 @@
+public class Main {
+    
+    public static void main(String[] args) {
+        
+        int Umur = 18;
+        String Nama = "Muh Rifai" ;
+        
+        System.out.println("Umur: " + Umur);
+        System.out.println("Nama:" + Nama);
+    }
+    
+}
