@@ -4,12 +4,12 @@ public class Main {
         
         int Umur = 18;
         String Nama = "Muh Rifai" ;
-        char Anjay = 'D';
+        char Huruf = 'D';
         
         
         System.out.println("Umur: " + Umur);
         System.out.println("Nama:" + Nama);
-        System.out.println("Anjay:" + Anjay);
+        System.out.println("Huruf:" + Huruf);
     }
     
 } 
