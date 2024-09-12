@@ -1,0 +1,13 @@
+package ISCGOOD;
+
+public class Main {
+    
+    public static void main(String[] args) {
+        
+        byte tinggi_rusun = 123;
+        
+        
+        System.out.println("tinggi_rusun = " + tinggi_rusun + " Meter");
+    }
+    
+}
