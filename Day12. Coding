@@ -1,0 +1,13 @@
+package ISCGOOD;
+
+public class Main {
+    
+    public static void main(String[] args) {
+        
+        int Harga_bakwan= 1000;
+        
+        
+        System.out.println("Harga_bakwan : " + Harga_bakwan+ " Rupiah");
+    }
+    
+}
