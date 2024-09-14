@@ -1,0 +1,21 @@
+//soal kedua
+package Evaluasi;
+
+//soal ketiga
+public class Rifai {
+    //soal ke empat
+    public static void main(String[] args) {
+
+        //soal ke lima
+        System.out.println("Muh Rifai");
+       //soal ke enam
+        String Nama = "Muh Rifai";
+        int Angkatan = 24;
+        String Alamat = "Polewali";
+
+        System.out.println("Nama \t :" + Nama);
+        System.out.println("Angkatan \t : " + Angkatan);
+        System.out.println("Alamat \t : " + Alamat);
+    }
+
+}
