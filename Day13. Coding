@@ -1,0 +1,11 @@
+package ISC;
+
+public class Main {
+    
+    public static void main(String[] args) {
+        
+        double tingginya = 23.0;
+        System.out.print("tingginya " + tingginya + " Meter");
+    }
+    
+}
