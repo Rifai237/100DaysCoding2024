@@ -1,0 +1,13 @@
+package ISC;
+
+public class Main {
+    
+    public static void main(String[] args) {
+        
+        float k= 210.0f;
+        
+        
+        System.out.println("saya di kamar " + k + " lantai 2");
+    }
+    
+}
