@@ -1,0 +1,13 @@
+package ISC;
+
+public class Main {
+    
+    public static void main(String[] args) {
+        
+        char huruf = 'R';
+        
+        
+        System.out.println("huruf : " + huruf);
+    }
+    
+}
