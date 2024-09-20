@@ -1,0 +1,15 @@
+package ISC;
+
+public class Main {
+    
+    public static void main(String[] args) {
+        
+        String Full_Name = "Muh Rifai";
+        String Name = "Fai";
+        
+        
+        String gabung = Full_Name + " " + Name;
+        System.out.println(gabung);
+    }
+    
+}
