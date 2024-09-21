@@ -1,0 +1,12 @@
+package ISC;
+
+public class Main {
+    
+    public static void main(String[] args) {
+        
+        Byte no_antrian= 23;
+        
+        System.out.println("Antrian ke : " + no_antrian );
+    }
+    
+}
