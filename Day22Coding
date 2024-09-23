@@ -1,0 +1,12 @@
+package ISC;
+
+public class Main {
+    
+    public static void main(String[] args) {
+        
+        Integer umur = 4;
+        
+        System.out.println("umur : " + umur );
+    }
+    
+}
