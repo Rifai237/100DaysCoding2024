@@ -1,0 +1,13 @@
+package ISC;
+
+public class Main {
+    
+    public static void main(String[] args) {
+        
+        Float angka = 78.9f;
+        
+        
+        System.out.println("angka : " + angka);
+    }
+    
+}
